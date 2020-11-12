@@ -1,3 +1,3 @@
 # hello-world-servlet
 HelloWorld Servlet example with corresponding Dockerfile
-Hello-World Artem yy
+Hello-World Artem today
